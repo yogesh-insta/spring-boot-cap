@@ -1,4 +1,9 @@
 # spring-boot-cap
+
+**Stack:** Java, Spring Boot, MongoDB, Spring Security, Actuator
+
+**Skills:** Security, monitoring, document databases
+
 Attempt to create a sample Spring boot application having 
 * REST 
 * MongoDB (https://mlab.com/databases/mongo_y)
@@ -18,4 +23,3 @@ Attempt to create a sample Spring boot application having
 - view health of you application at (note that you have to use token to access this link)
   http://localhost:8095/manage/health
   http://localhost:8095/manage/beans etc
-  
